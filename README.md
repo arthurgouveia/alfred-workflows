@@ -1,6 +1,6 @@
-# Alfred Workflows
+# Alfred Workflows (Fork from [@zenorocha](https://github.com/zenorocha/alfred-workflows/))
 
-A collection of [Alfred 2](http://www.alfredapp.com/) workflows that will rock your world.
+A collection of [Alfred 2](http://www.alfredapp.com/) workflows that I use on my workflow
 
 ![Alfred Logo](http://f.cl.ly/items/112u3G2z3g2B202W3e3p/alfred.png)
 
@@ -13,33 +13,6 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 ## Workflows
 
 :arrow_down: **&nbsp;[Download them all](https://github.com/zenorocha/alfred-workflows/releases).**
-
-### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.1) ~ [Download](http://zno.io/RcAe)
-
-Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by [@franzheidl](https://github.com/franzheidl/).*
-
-> Triggers: `subl`, `subl*`.
-
-![Sublime Workflow](http://f.cl.ly/items/1m102K320I1O253s1L1R/alfred-subl.png)
-
-### [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) (v1.6) ~ [Download](http://zno.io/RkU2)
-
-Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](https://github.com/LeEnno/).*
-
-> Triggers: `ft`, `tf`, `fi`, `if`.
-
-![Terminal → Finder](http://f.cl.ly/items/0o2224030X1r3Y0E3y1W/alfred-tf.png)
-![Terminal → Finder](http://f.cl.ly/items/3l2d2V0B041d2O3c2G0w/alfred-fi.png)
-
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.15) ~ [Download](http://zno.io/RcdI)
-
-Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
-
-> Triggers: `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
-
-![Bower Workflow](http://f.cl.ly/items/3b2t2S3V3m3m2t0X350m/alfred-bower.png)
-![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
-![NPM Workflow](http://f.cl.ly/items/3U1l2m2O2Z0R2j231g2i/alfred-npm.png)
 
 ### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (1.3) ~ [Download](http://zno.io/Rcex)
 
@@ -105,30 +78,6 @@ P.S.: FileZilla is a free external application, make sure to [download](https://
 
 Looking for another FTP client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#ftp).
 
-### [GitHub](https://github.com/gharlan/alfred-github-workflow) (1.0) ~ [Download](http://zno.io/RcPe)
-
-Easily open [GitHub](http://github.com) repositories and more in the browser ~ *by [@gharlan](https://github.com/gharlan/).*
-
-P.S.: You have to login before you can use the workflow: `gh > login <user>`.
-
-> Triggers: `gh`.
-
-![GH Repo Workflow](http://f.cl.ly/items/0G3n1D3W1p2S3S2W3B1C/alfred-gh-repo.png)
-![GH @User Workflow](http://f.cl.ly/items/3l3V092M363x1m262B21/alfred-gh-user.png)
-![GH My Workflow](http://f.cl.ly/items/2H1J2g330h3E1l2W1A0o/alfred-gh-my.png)
-
-### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.2) ~ [Download](http://zno.io/Ro6V)
-
-List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
-
-P.S.: Source Tree is a free external application, make sure to [download](http://www.sourcetreeapp.com/) it before start using this workflow.
-
-> Triggers: `st`, `stbookmark`.
-
-![Source Tree Workflow](http://f.cl.ly/items/473S2R0g3V461l2d0V2g/alfred-st.png)
-
-Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
-
 ### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (1.0) ~ [Download](http://zno.io/RcI1)
 
 Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfredforum.com/topic/2126-launch-ios-simulator/).*
@@ -153,6 +102,16 @@ Easily find processes by name and kill them ~ *by [@nathangreenstein](https://gi
 
 ![Kill Process Workflow](http://f.cl.ly/items/0q0P1u0A0d1q1h1y1V0l/alfred-kill.png)
 
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.15) ~ [Download](http://zno.io/RcdI)
+
+Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
+
+> Triggers: `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
+
+![Bower Workflow](http://f.cl.ly/items/3b2t2S3V3m3m2t0X350m/alfred-bower.png)
+![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
+![NPM Workflow](http://f.cl.ly/items/3U1l2m2O2Z0R2j231g2i/alfred-npm.png)
+
 ### [StackOverflow](https://github.com/xhinking/Alfred) (1.0) ~ [Download](http://zno.io/RceO)
 
 Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhinking](https://github.com/xhinking/).*
@@ -161,24 +120,22 @@ Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhink
 
 ![StackOverflow Workflow](http://f.cl.ly/items/3T00363u1d3k30011K3P/alfred-st.png)
 
-### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/) (1.61) ~ [Download](http://zno.io/Rce5)
+### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.1) ~ [Download](http://zno.io/RcAe)
 
-Get an instant list of the current time in various cities around the world ~ *by [@CarlosNZ](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/).*
+Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by [@franzheidl](https://github.com/franzheidl/).*
 
-> Triggers: `tz`.
+> Triggers: `subl`, `subl*`.
 
-![TimeZones Workflow](http://f.cl.ly/items/0q0Q0r240f0D1o340S0E/alfred-tz.png)
+![Sublime Workflow](http://f.cl.ly/items/1m102K320I1O253s1L1R/alfred-subl.png)
 
-### [VirtualBox](https://github.com/aiyodk/Alfred-Extensions/tree/master/AlfredApp_2.x/VirtualBox-Control) (2.0) ~ [Download](http://zno.io/RyOE)
+### [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) (v1.6) ~ [Download](http://zno.io/RkU2)
 
-Control your [VirtualBox](https://www.virtualbox.org/) virtual machines ~ *by [@aiyodk](https://github.com/aiyodk/).*
+Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](https://github.com/LeEnno/).*
 
-P.S.: VirtualBox is a free external application, make sure to [download](https://www.virtualbox.org/) it before start using this workflow.
+> Triggers: `ft`, `tf`, `fi`, `if`.
 
-> Triggers: `vm`.
-
-![VirtualBox Workflow](http://f.cl.ly/items/0U2a1n2D3b2Z2b0h1l38/alfred-vb-1.png)
-![VirtualBox Workflow](http://f.cl.ly/items/3P261H3O0G0D0u3B0n20/alfred-vb-2.png)
+![Terminal → Finder](http://f.cl.ly/items/0o2224030X1r3Y0E3y1W/alfred-tf.png)
+![Terminal → Finder](http://f.cl.ly/items/3l2d2V0B041d2O3c2G0w/alfred-fi.png)
 
 ## Extras
 
