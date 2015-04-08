@@ -112,6 +112,12 @@ Quick package/plugin/component lookup for your favorite package managers ~ *by [
 ![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
 ![NPM Workflow](http://f.cl.ly/items/3U1l2m2O2Z0R2j231g2i/alfred-npm.png)
 
+### Rimshot
+
+Play a rimshot sound when that colleague of yours made a very very very not funny joke.
+
+> Triggers: `rimshot`.
+
 ### [StackOverflow](https://github.com/xhinking/Alfred) (1.0) ~ [Download](http://zno.io/RceO)
 
 Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhinking](https://github.com/xhinking/).*
